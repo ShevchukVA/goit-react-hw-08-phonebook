@@ -1,0 +1,16 @@
+.box {
+  text-align: center;
+}
+.text {
+  color: #0000ff;
+  margin-bottom: 10px;
+}
+
+.appear {
+  transform: translateX(-100%);
+}
+
+.appearActive {
+  transform: translateX(0);
+  transition: transform 500ms linear;
+}

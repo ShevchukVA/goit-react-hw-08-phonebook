@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-08-phonebook"]=this["webpackJsonpgoit-react-hw-08-phonebook"]||[]).push([[1],{114:function(e,o,t){e.exports=t.p+"static/media/Phoonebook.853ad099.png"},119:function(e,o,t){"use strict";t.r(o);var a=t(0),n=t.n(a),c=t(114),h=t.n(c),i=t(8),s=t.n(i);o.default=function(){return n.a.createElement("div",null,n.a.createElement("h1",{className:s.a.title},"Welcome to Phoonebook"),n.a.createElement("img",{src:h.a,alt:"Phoonebook",width:"320",height:"500",className:s.a.phoonebook}))}}}]);
+//# sourceMappingURL=home-view.cc7bb734.chunk.js.map
